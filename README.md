@@ -1,3 +1,5 @@
+You wanna map an entity to domain object?..
+
 ```csharp
 Destination destination = source.As<Destination>();
 ```
